@@ -1,0 +1,62 @@
+
+/* colores:
+#F7FFF7 CASI BLANCO
+#343434 GRIS OSCURO CASI NEGRO
+#2F3061 AZUL OSCURO
+#FFE66D AMARILLO
+#A1C6D7 AZUL CLARO */
+
+
+/* Global Styles-------------------------------------------------- */
+body{
+    color: #343434;
+}
+img{
+    width: 300px;
+}
+
+a{
+    color: #FFE66D;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+/* Profile-------------------------------------------------- */
+header{
+    background: #2F3061 ;
+    color: #F7FFF7;
+}
+
+/* Proyects-------------------------------------------------- */
+.projects{
+    background: #FFBF69 ;
+}
+
+.projects a{
+    color: #2F3061;
+}
+
+.projects .btn{
+    color: #F7FFF7;
+    background: #2F3061;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.projects .btn:hover{
+    background: rgb(47,48,97,80%);
+}
+/* Work Experience-------------------------------------------------- */
+.work{
+    background: #A1C6D7 ;
+}
+/* Education-------------------------------------------------- */
+
+/* Contact Info-------------------------------------------------- */
+footer{
+    background: #343434;
+    color: #F7FFF7;
+}
